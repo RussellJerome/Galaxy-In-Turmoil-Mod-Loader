@@ -19,4 +19,4 @@ This software is provided by the author "as is". In no event shall the author be
   4. Boot into a match and press the ESC key to pull up the ingame mod loader (and press it again to close it).
   
     *The Mod Loader overwrites the GIT Pause menu, to undo this simply press the Uninstall Mod Loader button.
-  
+    *You can press the mod name to see the creator and description :P
